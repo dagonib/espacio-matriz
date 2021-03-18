@@ -1,7 +1,4 @@
 
-div {
-    color: red;
-}
 
 //custom-style.scss 
 $theme-colors: (
@@ -9,4 +6,5 @@ $theme-colors: (
     "danger": orangered
 );
 
+// Estilos de Bootstrap.
 @import "~bootstrap/scss/bootstrap";
