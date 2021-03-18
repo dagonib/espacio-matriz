@@ -1,3 +1,12 @@
+
 div {
     color: red;
 }
+
+//custom-style.scss 
+$theme-colors: (
+    "info": blueviolet,
+    "danger": orangered
+);
+
+@import "~bootstrap/scss/bootstrap";
