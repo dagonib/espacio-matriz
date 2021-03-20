@@ -1,10 +1,5 @@
-
-
 //custom-style.scss 
-$theme-colors: (
-    "info": blueviolet,
-    "danger": orangered
-);
-
+@import 'styles/colors.scss'; // Colores
+@import 'styles/texts.scss'; // Texto
 // Estilos de Bootstrap.
 @import "~bootstrap/scss/bootstrap";
