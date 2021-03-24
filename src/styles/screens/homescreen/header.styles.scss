@@ -39,7 +39,19 @@
         font-style: normal;
     }
     .header-text-box-note {
-        font-size: 1.1rem;
+        font-size: 0.9rem;
+        font-family: $font-family-secondary;
+    }
+
+    @media (min-width: 768px) { 
+        .header-text-box-note {
+            font-size: 1.1rem;
+        }
+    }
+    @media (min-width: 992px) { 
+        .header-text-box-note {
+            font-size: 1rem;
+        }
     }
 
 // Imagen decorativa del Header
@@ -53,3 +65,8 @@
     background-position: top right;
     background-repeat: no-repeat;
 }
+    @media (min-width: 992px) { 
+        .header-decorative-image {
+            width: 40%;
+        }
+    }

@@ -1,9 +1,13 @@
 import React from 'react'
 import Header from '../components/HomeScreen/Header'
+import SubscribeForm from '../components/HomeScreen/SubscribeForm'
 
 const HomeScreen = () => {
     return (
-        <Header />
+        <>
+            <Header />
+            <SubscribeForm />
+        </>
     )
 }
 
