@@ -10,8 +10,8 @@ const Header = () => {
             <Container className='header-secondary-background-image position-relative d-flex align-items-center m-0 p-0'>
                 <Col xs={12} sm={10} md={6} lg={4} className='header-text-box bg-dark text-white p-4 p-sm-5'>           
                     <h1 className="header-text-box-title mb-3">Adéntrate en el bienestar</h1>
-                    <h2 className="header-text-box-subtitle text-uppercase pb-4 mb-4">Te acompaño</h2>
-                    <p className="header-text-box-note text-justify m-0">
+                    <h2 className="subtitle-text text-uppercase pb-4 mb-4">Te acompaño</h2>
+                    <p className="note-text text-justify m-0">
                         Soy Carolina Ackermann. Te doy la bienvenida a mi Espacio Matriz.
                         En mi trayectoria y maneras de comunicar, encontrarás las semillas que contienen la información necesaria para vivir desde la menarquía a la menopausia con consciencia, bienestar y gozo. 
                         ¡Bienvenida a mi Espacio!
