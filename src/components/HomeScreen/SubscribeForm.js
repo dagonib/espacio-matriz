@@ -21,8 +21,8 @@ const SubscribeForm = () => {
                             <Form.Group  className='w-100 mr-0 mt-3 mr-md-3 mt-md-0 m-0'>
                                 <Form.Control type='email' placeholder='Tu email' name='nombre' className='subscribe-form-input rounded-0'></Form.Control>
                             </Form.Group>
-                            <Form.Group className='w-100 m-0 mt-3 mt-md-0 rounded-0'>
-                                <Form.Control as='select' className='subscribe-form-input'>
+                            <Form.Group className='w-100 m-0 mt-3 mt-md-0'>
+                                <Form.Control as='select' className='subscribe-form-input rounded-0'>
                                     <option value=''>Elige una opción...</option>
                                     <option value='menstruación'>Menstruación</option>
                                     <option value='climaterica'>Climatérica</option>
