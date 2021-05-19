@@ -6,7 +6,7 @@ import { FaQuoteLeft, FaQuoteRight } from "react-icons/fa";
 
 const NoteQuote = () => {
     return (
-        <Row className='bg-dark py-5 mx-0'>
+        <Row className='noteQuote bg-dark py-5 mx-0'>
             <Container>
                 <Row className='d-flex flex-column'>
                     <Col className='d-flex flex-row px-0'>

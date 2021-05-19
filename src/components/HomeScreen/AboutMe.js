@@ -1,13 +1,12 @@
 import React from 'react'
-import { Container, Row, Col, Image, Button } from 'react-bootstrap'
+import { Container, Row, Col, Button } from 'react-bootstrap'
 import TitleDeco from '../TitleDeco'
 
 import '../../styles/screens/homescreen/about-me.styles.scss'
-import imagen from '../../images/homescreen/imagen.jpg'
 
 const AboutMe = () => {
     return (
-        <div className='bg-secondary m-0'>
+        <div className='about-me bg-secondary m-0'>
             <Container>
                 <Row className='d-flex flex-column flex-md-row py-5 m-0'>
                     <Col className='aboutme-box-image d-flex align-items-end align-items-md-center p-0 ml-md-5 pb-lg-0 ml-lg-5' md={{ order: 'last'}}>                  
