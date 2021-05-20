@@ -5,7 +5,7 @@ import '../../styles/screens/homescreen/subscribe-form.styles.scss'
 
 const SubscribeForm = () => {
     return (
-        <Row className="subscribe-form py-5 m-0">
+        <Row className="subscribe-for bg-dark py-5 m-0">
             <Container>
                 <Form className='d-flex flex-column justify-content-center flex-md-row'>
                     <Col md={4} className='subscribe-main-box mt-0 mt-md-1 p-0'>
