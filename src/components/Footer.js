@@ -14,7 +14,7 @@ import img6 from '../images/footer/instagram-6.png'
 const Footer = () => {
 
     return (
-        <footer className="mt-5">
+        <footer className="">
             <Row className="bg-dark m-0 y-5">
                 <Container className="py-5 px-4 px-sm-0  text-white">
                     {/** Instagram o carteles */}

@@ -29,3 +29,23 @@ $font-family-secondary: 'Roboto', sans-serif;;
         font-size: 1rem;
     }
 }
+
+.imgbox {
+    height: fit-content;
+}
+
+.imgbox img {
+    width: 100%;
+    background-size: cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
+
+.img_logo {
+    width: 100px;
+    background-size: cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
