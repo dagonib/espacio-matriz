@@ -1,11 +1,11 @@
 import React from 'react'
 import { Container, Row, Col, Image } from 'react-bootstrap'
 import TitleDeco from '../TitleDeco'
-import img_presentation from '../../images/homescreen/imagen.jpg'
+import img_presentation from '../../images/homescreen/img2.jpg'
 
 const Presentation = () => {
     return (
-        <Row className='presentation bg-dark py-5 mx-0'>
+        <Row className='presentation bg-info py-5 mx-0'>
             <Container className='d-flex flex-column-reverse flex-md-row'>
                 <Col className='align-self-md-end flex-end text-white mr-md-3 px-0'>
                     <TitleDeco text={'Caroluna A.'}></TitleDeco>

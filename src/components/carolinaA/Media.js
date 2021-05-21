@@ -7,7 +7,7 @@ import logo_onada from '../../images/logos/onada-feminista.png'
 
 const Media = () => {
     return (
-        <div className='media bg-dark py-5 px-3 mx-0'>
+        <div className='media bg-info py-5 px-3 mx-0'>
             <Container>
                 <Row className='d-flex justify-content-center text-white mb-2 m-0'>
                     <TitleDeco className='text-center' text={'Mi presencia en los medios'}></TitleDeco>
