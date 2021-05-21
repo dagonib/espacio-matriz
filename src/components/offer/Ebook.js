@@ -4,7 +4,7 @@ import TitleDeco from '../TitleDeco'
 
 const Ebook = () => {
     return (
-        <Row className='ebook bg-dark py-5 px-3 mx-0'>
+        <Row className='ebook bg-info py-5 px-3 mx-0'>
             <Container className='p-0'>
                 <Row className='d-flex flex-column flex-sm-row align-items-start align-items-sm-end text-white px-3'>
                     <Col xs={12} sm={8} className='p-0'>

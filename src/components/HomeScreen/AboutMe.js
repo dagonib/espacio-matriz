@@ -11,9 +11,9 @@ const AboutMe = () => {
                 <Row className='d-flex flex-column flex-md-row py-5 m-0'>
                     <Col className='aboutme-box-image d-flex align-items-end align-items-md-center p-0 ml-md-5 pb-lg-0 ml-lg-5' md={{ order: 'last'}}>                  
                         <div className='d-flex flex-column w-100 w-md-50'>
-                            <p className='bg-dark text-white font-weight-bold text-uppercase p-3'>curiosidad</p>
-                            <p className='bg-dark text-white font-weight-bold text-uppercase p-3'>Pasión</p>
-                            <p className='bg-dark text-white font-weight-bold text-uppercase p-3'>Movimiento</p>
+                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>curiosidad</p>
+                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>Pasión</p>
+                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>Movimiento</p>
                         </div>
                     </Col>
                     <Col className='d-flex flex-column align-items-lg-baseline justify-content-lg-end mt-5 mt-md-0 p-0' md={{ order: 'first'}}>

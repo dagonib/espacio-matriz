@@ -1,11 +1,11 @@
 import React from 'react'
 import { Container, Row, Col, Image } from 'react-bootstrap'
 import TitleDeco from '../TitleDeco'
-import img_presentation from '../../images/homescreen/proyect.png'
+import img_presentation from '../../images/homescreen/img3.jpg'
 
 const Purpose = () => {
     return (
-        <Row className='purpose bg-dark py-5 mx-0'>
+        <Row className='purpose bg-info py-5 mx-0'>
             <Container className='d-flex flex-column-reverse flex-md-row'>
                 <Col className='align-self-md-end flex-end text-white mr-md-3 px-0'>
                     <h1 className="header-text-box-title text-uppercase mb-3">El Proyecto</h1>

@@ -4,7 +4,7 @@ import TitleDeco from '../TitleDeco'
 
 const LiveIn = () => {
     return (
-        <Row className='live-in bg-dark py-5 mx-0'>
+        <Row className='live-in bg-info py-5 mx-0'>
             <Container className='d-flex flex-column'>
                 <Row className='d-flex justify-content-center text-white m-0'>
                     <TitleDeco className='text-center' text={'Habitando mi cuerpo, leyendo mis signos.'}></TitleDeco>

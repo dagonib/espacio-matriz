@@ -68,7 +68,7 @@ const Footer = () => {
                         {/*<!-- Carolina A. -->*/} 
                         <Col md={4} className="text-center p-0 mb-4">
                             <TitleDeco text={'Carolina Ackermann'}></TitleDeco>
-                            <p className="m-0">Divulgadora y coordinadora de eventos relacionados con la Cultura Menstrual</p>
+                            <p className="m-0">Activista por el derecho al conocimiento del propio cuerpo, su funcionamiento y los recursos necesarios para vivir en salud.</p>
                         </Col>
                         {/*<!-- RRSS -->*/} 
                         <Col md={4} className="text-center p-0 mb-4">

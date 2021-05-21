@@ -6,7 +6,7 @@ import { FaExclamationCircle } from "react-icons/fa";
 
 const Clarification = () => {
     return (
-        <div className='clarification bg-dark py-5 px-3 mx-0'>
+        <div className='clarification bg-info py-5 px-3 mx-0'>
             <Container className='p-0'>
                 <Row className='d-flex flex-row px-3'>
                     <Col xs={2} className='p-0'>

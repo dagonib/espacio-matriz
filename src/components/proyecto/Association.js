@@ -4,7 +4,7 @@ import TitleDeco from '../TitleDeco'
 
 const Association = () => {
     return (
-        <Row className='association bg-dark text-white py-5 m-0'>
+        <Row className='association bg-info text-white py-5 m-0'>
            <Container>
                <Row className='d-flex flex-column align-items-center '>
                     <h2 className="subtitle-text text-uppercase d-inline-block pb-4 mb-4">Asociación de Cultura Menstrual</h2>
