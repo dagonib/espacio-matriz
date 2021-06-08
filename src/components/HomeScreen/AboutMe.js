@@ -24,7 +24,7 @@ const AboutMe = () => {
                             Divulgar
                         </p>
                         <p className="note-text text-justify mt-1 m-0">
-                            Información integral sobre el ciclo menstrual, el climaterio, la anatomía genital, menstruación sostenible, ginecología autogestiva.
+                            David Información integral sobre el ciclo menstrual, el climaterio, la anatomía genital, menstruación sostenible, ginecología autogestiva.
                         </p>  
                         <p className="note-text text-justify font-weight-bold mt-3 m-0">
                             Coordinar
