@@ -1,5 +1,5 @@
 import React from 'react'
-//import AboutMe from '../components/homeScreen/AboutMe'
+import AboutMe from '../components/homeScreen/AboutMe'
 import Header from '../components/homeScreen/Header'
 import NoteQuote from '../components/homeScreen/NoteQuote'
 import SubscribeForm from '../components/homeScreen/SubscribeForm'
@@ -11,6 +11,7 @@ const HomeScreen = () => {
         <>
             <Header />
             <SubscribeForm />
+            <AboutMe />
             <NoteQuote />
             <Media />
             <Clarification />
