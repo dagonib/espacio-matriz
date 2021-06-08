@@ -14,7 +14,7 @@ const LiveIn = () => {
                         <p>Tenía 40 años. La lesión afectó el nervio que llega hasta mi vulva. Ese hecho generó en mí, una voluntad por leer e investigar sobre mis signos y dolores. Una lectura me llevó a otra y no tardé en encontrar información sobre el ciclo menstrual y salud ginecológica desde una perspectiva feminista y ecologista.</p>
                    </Col>
                    <Col className='ml-md-2 p-0'>
-                        <p>Fue entonces, cuando generé un propósito y una misión para mí: formarme para profundizar en los conocimientos y reconvertirme así en una activista por la soberanía corporal, la salud ginecológica global y la consciencia ecofeminista.</p>
+                        <p>Fue entonces, cuando generé un propósito y una misión para mí: formarme para profundizar en los conocimientos y reconvertirme así en una activista por la soberanía corporal, la salud ginecológica global y la consciencia ecofeminista. El proyecto Espacio Matriz tuvo su nacimiento en el año 2015.</p>
                    </Col>
                </Row>
             </Container>

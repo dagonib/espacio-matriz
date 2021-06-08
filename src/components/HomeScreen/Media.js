@@ -10,9 +10,9 @@ import logo_vilaweb from '../../images/logos/vilaweb.png'
 
 const Media = () => {
     return (
-        <div className='media bg-info py-5 mx-0'>
+        <div className='media bg-secondary py-5 mx-0'>
             <Container fluid>
-                <Row className='d-flex justify-content-center text-white mb-2 m-0'>
+                <Row className='d-flex justify-content-center mb-2 m-0'>
                     <TitleDeco className='text-center' text={'Mi presencia en los medios'}></TitleDeco>
                 </Row>
                 <Row className='d-flex flex-column flex-sm-row align-items-center justify-content-sm-center'>

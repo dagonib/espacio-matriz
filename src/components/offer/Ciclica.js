@@ -24,7 +24,7 @@ const Ciclica = () => {
                             ¡Bienvenida a la re(vuelta) a tu propio cuerpo cíclico y a la revuelta cultural de la educación menstrual!
                         </p>    
                         <Button variant='primary' type='submit' className='rounded-0 text-uppercase mt-3'>
-                            Recursos
+                            Curso Virtual
                         </Button> 
                     </Col>
                 </Row>

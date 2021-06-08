@@ -14,10 +14,10 @@ const Association = () => {
                </Row>
                <Row className='d-flex flex-column flex-md-row'>
                    <Col className='mr-md-2 pl-md-0'> 
-                        <p className='mb-0'>Este proyecto se suma al movimiento histórico contemporáneo por una nueva Cultura Menstrual positiva, digna, inclusiva e integral. Con este fin, en el año 2021 Espacio Matriz pasa a formar parte co-fundadora de la Asociación de Cultura Menstrual en Cataluña, La vida en rojo. La asociación busca crear comunidad entre entidades y profesionales dedicadas a la salud y</p>
+                        <p className='mb-0'>Mi proyecto se suma al movimiento histórico contemporáneo por una nueva Cultura menstrual y cultura del climaterio integral, inclusiva, sostenible y feminista. Con este fin, en el año 2021 Carolina Ackermann, Ma. Victoria López Benito y Ana Luisa Meza, fundan la primera Asociación de Cultura menstrual en Cataluña, La vida en Rojo.</p>
                    </Col>
                    <Col className='ml-md-2'>
-                        <p className='mb-0'> la educación menstrual, participa de activismos y campañas por la justicia y dignidad menstrual, elabora documentos de investigación y tejer redes entre profesionales dedicadas a la cultural menstrual, tanto en el ámbito estatal, como el latinoamericano. La Asociación cuenta con un evento anual: Los “Encuentros de Cultura Menstrual” (EnCuMe).</p>
+                        <p className='mb-0'>La asociación busca crear comunidad entre entidades y profesionales dedicadas a la salud y la educación menstrual. Participa de activismos y campañas por la justicia y dignidad menstrual. Elabora documentos de investigación y teje redes entre profesionales dedicadas a la cultural menstrual, tanto en el ámbito estatal, como el latinoamericano. La Asociación cuenta con un evento anual: Los “Encuentros de Cultura Menstrual” (EnCuMe).</p>
                    </Col>
                </Row>
                <Row className='d-block align-items-left mt-3'>

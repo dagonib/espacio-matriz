@@ -24,7 +24,7 @@ const Climaterica = () => {
                             ¡Vívete! Y descubre en ti la energía vital y poderosa, que hace aflorar tu Yo más auténtico en la “Segunda Primavera” según la llaman desde la medicina tradicional china.
                         </p>    
                         <Button variant='primary' type='submit' className='rounded-0 text-uppercase mt-3'>
-                            Recursos
+                            Agenda Anual
                         </Button> 
                     </Col>
                 </Row>

@@ -40,11 +40,11 @@ const Navigation = () => {
                         <LinkContainer to='/inicio' className='mt-3 mt-md-0'>
                             <Nav.Link>Inicio</Nav.Link>
                         </LinkContainer>
-                        <LinkContainer to='/carolina' className='mt-3 mt-md-0'>
-                            <Nav.Link>Carolina A.</Nav.Link>
-                        </LinkContainer>
                         <LinkContainer to='/el-proyecto' className='mt-3 mt-md-0'>
                             <Nav.Link>El Proyecto</Nav.Link>
+                        </LinkContainer>
+                        <LinkContainer to='/ofrezco' className='mt-3 mt-md-0'>
+                            <Nav.Link>Ofrezco</Nav.Link>
                         </LinkContainer>
                     </Nav>
                     {/*<!-- Navbar: Brand-->*/} 
@@ -61,8 +61,8 @@ const Navigation = () => {
                     </LinkContainer>
                     {/*<!-- Navbar: Navigation Left -->*/} 
                     <Nav className="ml-auto" activeKey={location.pathname}>
-                        <LinkContainer to='/ofrezco' className='mt-3 mt-md-0'>
-                            <Nav.Link>Ofrezco</Nav.Link>
+                        <LinkContainer to='/carolina' className='mt-3 mt-md-0'>
+                            <Nav.Link>Carolina A.</Nav.Link>
                         </LinkContainer>
                         <LinkContainer to='/hablamos' className='mt-3 mt-md-0'>
                             <Nav.Link>Hablamos</Nav.Link>

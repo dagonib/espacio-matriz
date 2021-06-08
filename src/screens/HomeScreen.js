@@ -1,10 +1,10 @@
 import React from 'react'
-import AboutMe from '../components/HomeScreen/AboutMe'
-import Header from '../components/HomeScreen/Header'
-import NoteQuote from '../components/HomeScreen/NoteQuote'
-import SubscribeForm from '../components/HomeScreen/SubscribeForm'
-import EspacioMatriz from '../components/HomeScreen/EspacioMatriz'
-import Clarification from '../components/HomeScreen/Clarification'
+import AboutMe from '../components/homeScreen/AboutMe'
+import Header from '../components/homeScreen/Header'
+import NoteQuote from '../components/homeScreen/NoteQuote'
+import SubscribeForm from '../components/homeScreen/SubscribeForm'
+import Clarification from '../components/homeScreen/Clarification'
+import Media from '../components/homeScreen/Media'
 
 const HomeScreen = () => {
     return (
@@ -13,7 +13,7 @@ const HomeScreen = () => {
             <SubscribeForm />
             <AboutMe /> 
             <NoteQuote />
-            <EspacioMatriz />
+            <Media />
             <Clarification />
         </>
     )

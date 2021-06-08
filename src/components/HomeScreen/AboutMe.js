@@ -11,23 +11,41 @@ const AboutMe = () => {
                 <Row className='d-flex flex-column flex-md-row py-5 m-0'>
                     <Col className='aboutme-box-image d-flex align-items-end align-items-md-center p-0 ml-md-5 pb-lg-0 ml-lg-5' md={{ order: 'last'}}>                  
                         <div className='d-flex flex-column w-100 w-md-50'>
-                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>curiosidad</p>
-                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>Pasión</p>
-                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>Movimiento</p>
+                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>divulgar</p>
+                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>coordinar</p>
+                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>investigar</p>
+                            <p className='bg-info text-white font-weight-bold text-uppercase p-3'>crear</p>
                         </div>
                     </Col>
                     <Col className='d-flex flex-column align-items-lg-baseline justify-content-lg-end mt-5 mt-md-0 p-0' md={{ order: 'first'}}>
-                        <TitleDeco text={'Caroluna'}></TitleDeco>
-                        <h2 className="subtitle-text text-uppercase d-inline-block pb-4 mb-4">Soy mujer, soy lunar</h2>
-                        <p className="note-text text-justify m-0">
-                            Me despierto cada día buscando la curiosidad, interpretando mis propios deseos, identificando la belleza y gestando la mejor versión de mí misma. Soy mía y me comparto. Me reconozco auténtica para aceptarme en mis fases luminosas y oscuras, transitando la vida con consciencia.
-                            Los sesgos de género en la medicina y la escasa educación sexual, me habían impedido que tuviera plena autonomía sobre mi salud ginecológica y hormonal. Pero ya desperté. Cada día abro la ventana al conocimiento para saber más. Mi perspectiva aúnan el amor y la sana indignación para profundizar en mí y en mi misión de acompañar en el despertar.
+                        <TitleDeco text={'Espacio Matriz'}></TitleDeco>
+                        <h2 className="subtitle-text text-uppercase d-inline-block pb-4 mb-4">Ejes de acción</h2>
+                        <p className="note-text text-justify font-weight-bold m-0">
+                            Divulgar
                         </p>
-                        <p className="note-text text-justify mt-3 m-0">
-                            ¡Mujeres por el bienestar del cuerpo, del bienestar común y de la Tierra!
+                        <p className="note-text text-justify mt-1 m-0">
+                            Información integral sobre el ciclo menstrual, el climaterio, la anatomía genital, menstruación sostenible, ginecología autogestiva.
+                        </p>  
+                        <p className="note-text text-justify font-weight-bold mt-3 m-0">
+                            Coordinar
+                        </p>
+                        <p className="note-text text-justify mt-1 m-0">
+                            Eventos, charlas, talleres, encuentros entre mujeres activistas, feministas, divulgadoras.
                         </p>    
+                        <p className="note-text text-justify font-weight-bold mt-3 m-0">
+                            Investigar
+                        </p>
+                        <p className="note-text text-justify mt-1 m-0">
+                            Generar alianzas para investigar sobre los diversos aspectos que influyen en un ciclo menstrual o climaterio saludable.
+                        </p>  
+                        <p className="note-text text-justify font-weight-bold mt-3 m-0">
+                            Crear
+                        </p>
+                        <p className="note-text text-justify mt-1 m-0">
+                            Textos, artículos y material educativo para las redes, medios de comunicación, mi comunidad o la Asociación La Vida en Rojo.
+                        </p>        
                         <Button variant='primary' type='submit' className='rounded-0 text-uppercase mt-3'>
-                            Conóceme
+                            Actividades
                         </Button> 
                     </Col>
                 </Row>
