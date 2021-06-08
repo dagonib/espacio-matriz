@@ -1,0 +1,16 @@
+.carousel-item {
+    position: inherit!important;
+}
+
+.motivation .carousel-inner {
+    position: initial;
+    height: 150px;
+}
+
+.motivation .carousel-caption {
+    position: inherit;
+    right: inherit;
+    bottom: inherit;
+    left: inherit;
+    padding: 50px 25px;
+}
